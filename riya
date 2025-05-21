@@ -1,0 +1,59 @@
+<!DOCTYPE html><html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K.K.S.N. Public School</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f0f8ff; }
+        header { background: #e91e63; color: white; padding: 20px 10px; text-align: center; }
+        nav { background: #c2185b; color: white; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        section { padding: 20px; }
+        .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .gallery img { width: 100%; border-radius: 10px; }
+        .admission { background: #ffeb3b; padding: 15px; text-align: center; font-size: 1.2em; font-weight: bold; color: #d32f2f; margin: 20px 0; border-radius: 10px; }
+        footer { background: #e91e63; color: white; text-align: center; padding: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>K.K.S.N. Public School</h1>
+        <p>Shiksha ka Sarthak Lakshya</p>
+    </header>
+    <nav>
+        <a href="#about">School</a>
+        <a href="#photos">Photos</a>
+        <a href="#contact">Contact</a>
+    </nav><section class="admission">
+    अब प्रवेश प्रारंभ हैं - Nursery से 8वीं कक्षा तक के लिए आवेदन आमंत्रित हैं!
+</section>
+
+<section id="about">
+    <h2>हमारे स्कूल के बारे में</h2>
+    <p>K.K.S.N. Public School में बच्चों को गुणवत्ता युक्त शिक्षा, संस्कार और खेलों में समान अवसर प्रदान किया जाता है। हमारा उद्देश्य विद्यार्थियों का सर्वांगीण विकास करना है।</p>
+</section>
+
+<section id="photos">
+    <h2>हमारी झलकियाँ</h2>
+    <div class="gallery">
+        <img src="/mnt/data/file-KK9cGLtMhdgxL2y9fZevcr" alt="Student on slide">
+        <img src="/mnt/data/file-NcQANVHUdrZubVSAPckZko" alt="Playground activity">
+        <img src="/mnt/data/file-1d5zesEFPUK86jpBdLk9Vj" alt="Smiling student">
+        <img src="/mnt/data/file-TKKEwjsprXMoRxsrsSnH2f" alt="Students playing in ground">
+        <img src="/mnt/data/file-Wp4dNGmZgUdfkDMXUrCgGq" alt="Classroom view">
+    </div>
+</section>
+
+<section id="contact">
+    <h2>संपर्क करें</h2>
+    <p>पता: K.K.S.N.  School, [rura kanpur dehat]</p>
+    <p>फोन: [9695131795]</p>
+    <p>ईमेल: [yaduvir6550@gmail.com]</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 K.K.S.N.  School. सर्वाधिकार सुरक्षित।</p>
+</footer>
+
+</body>
+</html>
